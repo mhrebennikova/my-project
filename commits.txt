@@ -1,0 +1,10 @@
+e5ffa73 Revert "Add paragraph to index.html"
+b2fb245 Add paragraph to index.html
+30b442c Resolve merge conflict
+6b268e7 Update heading text on main
+1cefa6a Change heading text
+af50111 Merge pull request #1 from mhrebennikova/feature-style
+e14b888 Add test file 2 Hrebennikova
+7bdb9d6 Add test file Hrebennikova
+1d4b204 Add blue CSS style to heading
+21739c5 Add initial HTML file
